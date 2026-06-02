@@ -1,0 +1,78 @@
+🔄 Running steady-state simulation...
+✅ Simulation completed in 9.63 s
+✅ Steady-state conditions saved: data\Initial_Conditions\P0,5
+📊 29 variables extracted from simulation logs
+Warning: Mode 1 poorly conditioned (scale≈0) 
+> In stability_analysis (line 48)
+In main_ss_composite (line 87) 
+Warning: Mode 2 poorly conditioned (scale≈0) 
+> In stability_analysis (line 48)
+In main_ss_composite (line 87) 
+Warning: Mode 5 poorly conditioned (scale≈0) 
+> In stability_analysis (line 48)
+In main_ss_composite (line 87) 
+Warning: Mode 6 poorly conditioned (scale≈0) 
+> In stability_analysis (line 48)
+In main_ss_composite (line 87) 
+Warning: Mode 7 poorly conditioned (scale≈0) 
+> In stability_analysis (line 48)
+In main_ss_composite (line 87) 
+Warning: Mode 8 poorly conditioned (scale≈0) 
+> In stability_analysis (line 48)
+In main_ss_composite (line 87) 
+Warning: Mode 9 poorly conditioned (scale≈0) 
+> In stability_analysis (line 48)
+In main_ss_composite (line 87) 
+Warning: Mode 11 poorly conditioned (scale≈0) 
+> In stability_analysis (line 48)
+In main_ss_composite (line 87) 
+Warning: Mode 14 poorly conditioned (scale≈0) 
+> In stability_analysis (line 48)
+In main_ss_composite (line 87) 
+
+=== COMPLETE MODAL ANALYSIS ===
+System order: 14 states
+Critical mode: #7 (ζ=15.03%)
+
+CRITICAL MODE #7 PARTICIPATION FACTORS:
+         State          Damping_%    Frequency{Hz}     PartAbs      PartPercent
+    ________________    _________    _____________    __________    ___________
+
+    {'ig_q_s'      }     15.032         237.55         0.0001986        27.746 
+    {'ig_d_s'      }     15.032         237.55        0.00010504        14.676 
+    {'Cq'          }     15.032         237.55        8.9952e-05        12.567 
+    {'Cd'          }     15.032         237.55        8.8173e-05        12.319 
+    {'Flux_PoC'    }     15.032         237.55        8.0673e-05        11.271 
+    {'vpoc_q_s'    }     15.032         237.55        7.2501e-05        10.129 
+    {'vpoc_d_s'    }     15.032         237.55        4.6762e-05        6.5331 
+    {'Vdc_mes'     }     15.032         237.55        2.0892e-05        2.9188 
+    {'iL_q_s'      }     15.032         237.55        6.7336e-06       0.94075 
+    {'iL_d_s'      }     15.032         237.55        3.0563e-06       0.42699 
+    {'theta'       }     15.032         237.55        1.8432e-06       0.25751 
+    {'Flux_DC'     }     15.032         237.55        1.5439e-06       0.21569 
+    {'Flux_laglead'}     15.032         237.55        2.1124e-09    0.00029512 
+    {'Flux_PLL'    }     15.032         237.55        6.5806e-10    9.1938e-05 
+
+
+COMPLETE EIGENVALUE SPECTRUM:
+    Mode       Eigenvalue       RealPart    ImagPart    Frequency{Hz}    Damping_%
+    ____    ________________    ________    ________    _____________    _________
+
+      5      -944.69+1564.3i     -944.69     1564.3        248.96         51.696  
+      6      -944.69-1564.3i     -944.69    -1564.3        248.96         51.696  
+      7      -226.94+1492.6i     -226.94     1492.6        237.55         15.032  
+      8      -226.94-1492.6i     -226.94    -1492.6        237.55         15.032  
+      1       -21128+564.39i      -21128     564.39        89.825         99.964  
+      2       -21128-564.39i      -21128    -564.39        89.825         99.964  
+      9      -76.757+104.81i     -76.757     104.81        16.682         59.084  
+     10      -76.757-104.81i     -76.757    -104.81        16.682         59.084  
+      3      -5419.5+0i          -5419.5          0             0            100  
+      4      -4694.5+0i          -4694.5          0             0            100  
+     11      -159.87+0i          -159.87          0             0            100  
+     12      -11.601+0i          -11.601          0             0            100  
+     13     -0.89782+0i         -0.89782          0             0            100  
+     14     -0.56526+0i         -0.56526          0             0            100  
+
+
+>>> SUMMARY: STABLE | Critical ζ=15.03% | Dominant: ig_q_s (27.7%) <<<
+💾 Salvato con Ctrl+A/C: data\last_log.txt
