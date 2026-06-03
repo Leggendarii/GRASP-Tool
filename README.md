@@ -323,7 +323,22 @@ main_SVD
 
 ---
 
-## Authors & Support
-Based on research from the **Centre of Technological Innovation in Static Converters and Drives (CITCEA)** at the Technical University of Catalonia (UPC).
+## Citation
 
-For specific technical questions, refer to the header comments in each script file.
+https://arxiv.org/abs/2606.03567
+
+---
+
+## Bib-Reference
+
+@misc{darii2026systematicgrayboxidentificationmethodology,
+      title={Systematic Gray-Box Identification Methodology for Voltage Source Converters}, 
+      author={Nicolae Darii and Luis A. Garcia-Reyes and Ignasi Ventura Nadal and Oscar Saborio Romano and Ranjan Sharma and Oriol Gomis-Bellmunt and Nicolaos A. Cutululis},
+      year={2026},
+      eprint={2606.03567},
+      archivePrefix={arXiv},
+      primaryClass={eess.SY},
+      url={https://arxiv.org/abs/2606.03567}, 
+}
+
+
