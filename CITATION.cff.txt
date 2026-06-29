@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+
+title: "Systematic Gray-Box Identification Methodology for Voltage Source Converters"
+
+message: >
+  If you use this software in academic work, please cite the associated paper.
+
+type: software
+
+authors:
+  - family-names: Darii
+    given-names: Nicolae
+  - family-names: Garcia-Reyes
+    given-names: Luis A.
+  - family-names: Nadal
+    given-names: Ignasi Ventura
+  - family-names: Romano
+    given-names: Oscar Saborio
+  - family-names: Sharma
+    given-names: Ranjan
+  - family-names: Gomis-Bellmunt
+    given-names: Oriol
+  - family-names: Cutululis
+    given-names: Nicolaos A.
+
+license: MIT
+
+preferred-citation:
+  type: article
+  title: "Systematic Gray-Box Identification Methodology for Voltage Source Converters"
+  authors:
+    - family-names: Darii
+      given-names: Nicolae
+    - family-names: Garcia-Reyes
+      given-names: Luis A.
+    - family-names: Nadal
+      given-names: Ignasi Ventura
+    - family-names: Romano
+      given-names: Oscar Saborio
+    - family-names: Sharma
+      given-names: Ranjan
+    - family-names: Gomis-Bellmunt
+      given-names: Oriol
+    - family-names: Cutululis
+      given-names: Nicolaos A.
+  year: 2026
+  doi: 10.48550/arXiv.2606.03567
+  url: https://doi.org/10.48550/arXiv.2606.03567
