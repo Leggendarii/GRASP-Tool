@@ -321,24 +321,30 @@ main_SVD
 - **MIMO Nyquist**: Generalized stability criterion for multi-input multi-output systems
 - **SVD**: Singular Value Decomposition for robust control analysis
 
----
-
 ## Citation
 
-https://arxiv.org/abs/2606.03567
+If you use this software in your research, please cite the associated paper:
 
----
+> Nicolae Darii, Luis A. Garcia-Reyes, Ignasi Ventura Nadal,
+> Oscar Saborio Romano, Ranjan Sharma,
+> Oriol Gomis-Bellmunt, and Nicolaos A. Cutululis.
+> **Systematic Gray-Box Identification Methodology for Voltage Source Converters**.
+> arXiv:2606.03567, 2026.
+> https://doi.org/10.48550/arXiv.2606.03567
 
-## Bib-Reference
+### BibTeX
 
+```bibtex
 @misc{darii2026systematicgrayboxidentificationmethodology,
-      title={Systematic Gray-Box Identification Methodology for Voltage Source Converters}, 
-      author={Nicolae Darii and Luis A. Garcia-Reyes and Ignasi Ventura Nadal and Oscar Saborio Romano and Ranjan Sharma and Oriol Gomis-Bellmunt and Nicolaos A. Cutululis},
-      year={2026},
-      eprint={2606.03567},
-      archivePrefix={arXiv},
-      primaryClass={eess.SY},
-      url={https://arxiv.org/abs/2606.03567}, 
+  title={Systematic Gray-Box Identification Methodology for Voltage Source Converters},
+  author={Nicolae Darii and Luis A. Garcia-Reyes and Ignasi Ventura Nadal and Oscar Saborio Romano and Ranjan Sharma and Oriol Gomis-Bellmunt and Nicolaos A. Cutululis},
+  year={2026},
+  eprint={2606.03567},
+  archivePrefix={arXiv},
+  primaryClass={eess.SY},
+  doi={10.48550/arXiv.2606.03567},
+  url={https://arxiv.org/abs/2606.03567}
 }
+```
 
 
