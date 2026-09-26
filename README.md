@@ -326,23 +326,23 @@ main_SVD
 If you use this software in your research, please cite the associated paper:
 
 > Nicolae Darii, Luis A. Garcia-Reyes, Ignasi Ventura Nadal,
-> Oscar Saborio Romano, Ranjan Sharma,
+> Oscar Saborío-Romano, Ranjan Sharma,
 > Oriol Gomis-Bellmunt, and Nicolaos A. Cutululis.
 > **Systematic Gray-Box Identification Methodology for Voltage Source Converters**.
-> arXiv:2606.03567, 2026.
-> https://doi.org/10.48550/arXiv.2606.03567
+> *IEEE Transactions on Power Delivery*, 2026, pp. 1-13.
+> https://doi.org/10.1109/TPWRD.2026.3737268
 
 ### BibTeX
 
 ```bibtex
-@misc{darii2026systematicgrayboxidentificationmethodology,
+@ARTICLE{11707320,
+  author={Darii, Nicolae and Garcia-Reyes, Luis A. and Nadal, Ignasi Ventura and Saborío-Romano, Oscar and Sharma, Ranjan and Gomis-Bellmunt, Oriol and Cutululis, Nicolaos A.},
+  journal={IEEE Transactions on Power Delivery},
   title={Systematic Gray-Box Identification Methodology for Voltage Source Converters},
-  author={Nicolae Darii and Luis A. Garcia-Reyes and Ignasi Ventura Nadal and Oscar Saborio Romano and Ranjan Sharma and Oriol Gomis-Bellmunt and Nicolaos A. Cutululis},
   year={2026},
-  eprint={2606.03567},
-  archivePrefix={arXiv},
-  primaryClass={eess.SY},
-  doi={10.48550/arXiv.2606.03567},
+  pages={1-13},
+  doi={10.1109/TPWRD.2026.3737268}
+}
   url={https://arxiv.org/abs/2606.03567}
 }
 ```
