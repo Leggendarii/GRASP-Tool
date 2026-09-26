@@ -12,10 +12,10 @@ authors:
     given-names: Nicolae
   - family-names: Garcia-Reyes
     given-names: Luis A.
-  - family-names: Nadal
-    given-names: Ignasi Ventura
-  - family-names: Romano
-    given-names: Oscar Saborio
+  - family-names: Ventura Nadal
+    given-names: Ignasi
+  - family-names: Saborío-Romano
+    given-names: Oscar
   - family-names: Sharma
     given-names: Ranjan
   - family-names: Gomis-Bellmunt
@@ -33,16 +33,18 @@ preferred-citation:
       given-names: Nicolae
     - family-names: Garcia-Reyes
       given-names: Luis A.
-    - family-names: Nadal
-      given-names: Ignasi Ventura
-    - family-names: Romano
-      given-names: Oscar Saborio
+    - family-names: Ventura Nadal
+      given-names: Ignasi
+    - family-names: Saborío-Romano
+      given-names: Oscar
     - family-names: Sharma
       given-names: Ranjan
     - family-names: Gomis-Bellmunt
       given-names: Oriol
     - family-names: Cutululis
       given-names: Nicolaos A.
+  journal: "IEEE Transactions on Power Delivery"
   year: 2026
-  doi: 10.48550/arXiv.2606.03567
-  url: https://doi.org/10.48550/arXiv.2606.03567
+  pages: "1-13"
+  doi: "10.1109/TPWRD.2026.3737268"
+  url: "https://doi.org/10.1109/TPWRD.2026.3737268"
